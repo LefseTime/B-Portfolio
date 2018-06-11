@@ -1,7 +1,8 @@
 body {
     font-family: 'Exo', sans-serif;
+    margin-bottom: 30px;
 }
 
 .hotelSonia {
-    transform: rotate(180deg);
+    /* transform: rotate(180deg); */
 }
