@@ -1,8 +1,26 @@
 body {
-    font-family: 'Exo', sans-serif;
+    font-family: 'Averia Serif Libre', cursive;
     margin-bottom: 30px;
 }
 
-.hotelSonia {
-    /* transform: rotate(180deg); */
+h1 {
+    font-family: 'Megrim', cursive;
 }
+
+nav {
+    font-family: 'Megrim', cursive;
+}
+
+.zabs {
+    /* transform: rotate(90deg); */
+}
+
+.drT {
+    
+    transform: rotate(90deg);
+}
+
+
+
+/* font-family: 'Averia Serif Libre', cursive;
+font-family: 'Megrim', cursive; */
