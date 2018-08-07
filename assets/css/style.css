@@ -16,11 +16,36 @@ nav {
 }
 
 .drT {
-    
+    max-width: 80%;
+    max-height: 80%;
     transform: rotate(90deg);
+}
+
+.yellow-green {
+    background-color: #E5FCC2; 
+}
+
+.green {
+    background-color: #9DE0AD;
+}
+
+.teal {
+    background-color: #45ADA8;
+}
+
+.blue {
+    background-color: #547980;
+    color: #E5FCC2;
+}
+
+.brown {
+    background-color: #594F4F;
 }
 
 
 
 /* font-family: 'Averia Serif Libre', cursive;
 font-family: 'Megrim', cursive; */
+
+/* color palette:
+E5FCC2   9DE0AD   45ADA8   547980   594F4F  */
